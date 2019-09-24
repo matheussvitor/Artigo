@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Arsenal,90
-1,2,Chelsea,79
-2,3,Manchester United,75
-3,4,Liverpool,60
-4,5,Newcastle United,56
-5,6,Aston Villa,56
-6,7,Charlton Athletic,53
-7,8,Bolton Wanderers,53
-8,9,Fulham,52
-9,10,Birmingham City,50
-10,11,Middlesbrough,48
-11,12,Southampton,47
-12,13,Portsmouth,45
-13,14,Tottenham Hotspur,45
-14,15,Blackburn Rovers,44
-15,16,Manchester City,41
-16,17,Everton,39
-17,18,Leicester City,33
-18,19,Leeds United,33
-19,20,Wolverhampton Wanderers,33
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Arsenal,90,38,26,12
+1,2,Chelsea,79,38,24,7
+2,3,Manchester United,75,38,23,6
+3,4,Liverpool,60,38,16,12
+4,5,Newcastle United,56,38,13,17
+5,6,Aston Villa,56,38,15,11
+6,7,Charlton Athletic,53,38,14,11
+7,8,Bolton Wanderers,53,38,14,11
+8,9,Fulham,52,38,14,10
+9,10,Birmingham City,50,38,12,14
+10,11,Middlesbrough,48,38,13,9
+11,12,Southampton,47,38,12,11
+12,13,Portsmouth,45,38,12,9
+13,14,Tottenham Hotspur,45,38,13,6
+14,15,Blackburn Rovers,44,38,12,8
+15,16,Manchester City,41,38,9,14
+16,17,Everton,39,38,9,12
+17,18,Leicester City,33,38,6,15
+18,19,Leeds United,33,38,8,9
+19,20,Wolverhampton Wanderers,33,38,7,12

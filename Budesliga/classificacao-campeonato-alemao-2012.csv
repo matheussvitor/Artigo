@@ -1,19 +1,19 @@
-,Posição,Time,Pontos
-0,1,Bayern de Munique,91
-1,2,Borussia Dortmund,66
-2,3,Bayer Leverkusen,65
-3,4,Schalke 04,55
-4,5,SC Freiburg,51
-5,6,Eintracht Frankfurt,51
-6,7,Hamburg SV,48
-7,8,Borussia Monchengladbach,47
-8,9,Hannover 96,45
-9,10,Nurnberg,44
-10,11,VfL Wolfsburg,43
-11,12,VfB Stuttgart,43
-12,13,Mainz,42
-13,14,Werder Bremen,34
-14,15,FC Augsburgo,33
-15,16,TSG Hoffenheim,31
-16,17,Fortuna Düsseldorf,30
-17,18,SpVgg Greuther Fürth,21
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Bayern de Munique,91,34,29,4
+1,2,Borussia Dortmund,66,34,19,9
+2,3,Bayer Leverkusen,65,34,19,8
+3,4,Schalke 04,55,34,16,7
+4,5,SC Freiburg,51,34,14,9
+5,6,Eintracht Frankfurt,51,34,14,9
+6,7,Hamburg SV,48,34,14,6
+7,8,Borussia Monchengladbach,47,34,12,11
+8,9,Hannover 96,45,34,13,6
+9,10,Nurnberg,44,34,11,11
+10,11,VfL Wolfsburg,43,34,10,13
+11,12,VfB Stuttgart,43,34,12,7
+12,13,Mainz,42,34,10,12
+13,14,Werder Bremen,34,34,8,10
+14,15,FC Augsburgo,33,34,8,9
+15,16,TSG Hoffenheim,31,34,8,7
+16,17,Fortuna Düsseldorf,30,34,7,9
+17,18,SpVgg Greuther Fürth,21,34,4,9

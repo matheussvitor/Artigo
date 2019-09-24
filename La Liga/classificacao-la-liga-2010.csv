@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Barcelona,96
-1,2,Real Madrid,92
-2,3,Valencia,71
-3,4,Villareal,62
-4,5,Sevilla FC,58
-5,6,Athletic Bilbao,58
-6,7,Atlético de Madrid,58
-7,8,Espanyol,49
-8,9,Osasuna,47
-9,10,Sporting Gijón,47
-10,11,Málaga,46
-11,12,Racing Santander,46
-12,13,Real Zaragoza,45
-13,14,Levante,45
-14,15,Real Sociedad,45
-15,16,Getafe,44
-16,17,Mallorca,44
-17,18,Deportivo La Coruña,43
-18,19,Hercules,35
-19,20,Almería,30
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Barcelona,96,38,30,6
+1,2,Real Madrid,92,38,29,5
+2,3,Valencia,71,38,21,8
+3,4,Villareal,62,38,18,8
+4,5,Sevilla FC,58,38,17,7
+5,6,Athletic Bilbao,58,38,18,4
+6,7,Atlético de Madrid,58,38,17,7
+7,8,Espanyol,49,38,15,4
+8,9,Osasuna,47,38,13,8
+9,10,Sporting Gijón,47,38,11,14
+10,11,Málaga,46,38,13,7
+11,12,Racing Santander,46,38,12,10
+12,13,Real Zaragoza,45,38,12,9
+13,14,Levante,45,38,12,9
+14,15,Real Sociedad,45,38,14,3
+15,16,Getafe,44,38,12,8
+16,17,Mallorca,44,38,12,8
+17,18,Deportivo La Coruña,43,38,10,13
+18,19,Hercules,35,38,9,8
+19,20,Almería,30,38,6,12

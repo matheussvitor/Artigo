@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Chelsea,86
-1,2,Manchester United,85
-2,3,Arsenal,75
-3,4,Tottenham Hotspur,70
-4,5,Manchester City,67
-5,6,Aston Villa,64
-6,7,Liverpool,63
-7,8,Everton,61
-8,9,Birmingham City,50
-9,10,Blackburn Rovers,50
-10,11,Stoke City,47
-11,12,Fulham,46
-12,13,Sunderland,44
-13,14,Bolton Wanderers,39
-14,15,Wolverhampton Wanderers,38
-15,16,Wigan Athletic,36
-16,17,West Ham United,35
-17,18,Burnley,30
-18,19,Hull City,30
-19,20,Portsmouth,19
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Chelsea,86,38,27,5
+1,2,Manchester United,85,38,27,4
+2,3,Arsenal,75,38,23,6
+3,4,Tottenham Hotspur,70,38,21,7
+4,5,Manchester City,67,38,18,13
+5,6,Aston Villa,64,38,17,13
+6,7,Liverpool,63,38,18,9
+7,8,Everton,61,38,16,13
+8,9,Birmingham City,50,38,13,11
+9,10,Blackburn Rovers,50,38,13,11
+10,11,Stoke City,47,38,11,14
+11,12,Fulham,46,38,12,10
+12,13,Sunderland,44,38,11,11
+13,14,Bolton Wanderers,39,38,10,9
+14,15,Wolverhampton Wanderers,38,38,9,11
+15,16,Wigan Athletic,36,38,9,9
+16,17,West Ham United,35,38,8,11
+17,18,Burnley,30,38,8,6
+18,19,Hull City,30,38,6,12
+19,20,Portsmouth,19,38,7,7

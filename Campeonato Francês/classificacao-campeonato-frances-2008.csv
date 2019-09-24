@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Bordeaux,80
-1,2,Marseille,77
-2,3,Lyon,71
-3,4,Toulouse,64
-4,5,Lille,64
-5,6,Paris Saint-Germain,64
-6,7,Stade Rennes,61
-7,8,AJ Auxerre,55
-8,9,Nice,50
-9,10,Lorient,45
-10,11,AS Mônaco,45
-11,12,Valenciennes,44
-12,13,Grenoble,44
-13,14,Sochaux,42
-14,15,AS Nancy Lorraine,42
-15,16,Le Mans,40
-16,17,Saint-Etienne,40
-17,18,Caen,37
-18,19,Nantes,37
-19,20,Le Havre AC,26
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Bordeaux,80,38,24,8
+1,2,Marseille,77,38,22,11
+2,3,Lyon,71,38,20,11
+3,4,Toulouse,64,38,16,16
+4,5,Lille,64,38,17,13
+5,6,Paris Saint-Germain,64,38,19,7
+6,7,Stade Rennes,61,38,15,16
+7,8,AJ Auxerre,55,38,16,7
+8,9,Nice,50,38,13,11
+9,10,Lorient,45,38,10,15
+10,11,AS Mônaco,45,38,11,12
+11,12,Valenciennes,44,38,10,14
+12,13,Grenoble,44,38,10,14
+13,14,Sochaux,42,38,10,12
+14,15,AS Nancy Lorraine,42,38,10,12
+15,16,Le Mans,40,38,10,10
+16,17,Saint-Etienne,40,38,11,7
+17,18,Caen,37,38,8,13
+18,19,Nantes,37,38,9,10
+19,20,Le Havre AC,26,38,7,5

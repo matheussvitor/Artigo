@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Lyon,81
-1,2,Marseille,64
-2,3,Toulouse,58
-3,4,Stade Rennes,57
-4,5,Lens,57
-5,6,Bordeaux,57
-6,7,Sochaux,57
-7,8,AJ Auxerre,54
-8,9,AS Mônaco,51
-9,10,Lille,50
-10,11,Saint-Etienne,49
-11,12,Le Mans,49
-12,13,AS Nancy Lorraine,49
-13,14,Lorient,49
-14,15,Paris Saint-Germain,48
-15,16,Nice,43
-16,17,Valenciennes,43
-17,18,Troyes,39
-18,19,Sedan,35
-19,20,Nantes,34
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Lyon,81,38,24,9
+1,2,Marseille,64,38,19,7
+2,3,Toulouse,58,38,17,7
+3,4,Stade Rennes,57,38,14,15
+4,5,Lens,57,38,15,12
+5,6,Bordeaux,57,38,16,9
+6,7,Sochaux,57,38,15,12
+7,8,AJ Auxerre,54,38,13,15
+8,9,AS Mônaco,51,38,13,12
+9,10,Lille,50,38,13,11
+10,11,Saint-Etienne,49,38,14,7
+11,12,Le Mans,49,38,11,16
+12,13,AS Nancy Lorraine,49,38,13,10
+13,14,Lorient,49,38,12,13
+14,15,Paris Saint-Germain,48,38,12,12
+15,16,Nice,43,38,9,16
+16,17,Valenciennes,43,38,11,10
+17,18,Troyes,39,38,9,12
+18,19,Sedan,35,38,7,14
+19,20,Nantes,34,38,7,13

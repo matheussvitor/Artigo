@@ -1,19 +1,19 @@
-,Posição,Time,Pontos
-0,1,FC Porto,88
-1,2,Benfica,81
-2,3,Sporting CP,78
-3,4,Braga,75
-4,5,Rio Ave,51
-5,6,GD Chaves,47
-6,7,Maritimo,47
-7,8,Boavista,45
-8,9,Guimaraes,43
-9,10,Portimonense,38
-10,11,Tondela,38
-11,12,Belenenses,37
-12,13,Desportivo Aves,34
-13,14,Vitoria Setubal,32
-14,15,Moreirense,32
-15,16,Feirense,31
-16,17,Paços de Ferreira,30
-17,18,Estoril,30
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,FC Porto,88,34,28,4
+1,2,Benfica,81,34,25,6
+2,3,Sporting CP,78,34,24,6
+3,4,Braga,75,34,24,3
+4,5,Rio Ave,51,34,15,6
+5,6,GD Chaves,47,34,13,8
+6,7,Maritimo,47,34,13,8
+7,8,Boavista,45,34,13,6
+8,9,Guimaraes,43,34,13,4
+9,10,Portimonense,38,34,10,8
+10,11,Tondela,38,34,10,8
+11,12,Belenenses,37,34,9,10
+12,13,Desportivo Aves,34,34,9,7
+13,14,Vitoria Setubal,32,34,7,11
+14,15,Moreirense,32,34,8,8
+15,16,Feirense,31,34,9,4
+16,17,Paços de Ferreira,30,34,7,9
+17,18,Estoril,30,34,8,6

@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Marseille,78
-1,2,Lyon,72
-2,3,AJ Auxerre,71
-3,4,Lille,70
-4,5,Montpellier,69
-5,6,Bordeaux,64
-6,7,Lorient,58
-7,8,AS Mônaco,55
-8,9,Stade Rennes,53
-9,10,Valenciennes,52
-10,11,Lens,48
-11,12,AS Nancy Lorraine,48
-12,13,Paris Saint-Germain,47
-13,14,Toulouse,47
-14,15,Nice,44
-15,16,Sochaux,41
-16,17,Saint-Etienne,40
-17,18,Le Mans,32
-18,19,Boulogne,31
-19,20,Grenoble,23
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Marseille,78,38,23,9
+1,2,Lyon,72,38,20,12
+2,3,AJ Auxerre,71,38,20,11
+3,4,Lille,70,38,21,7
+4,5,Montpellier,69,38,20,9
+5,6,Bordeaux,64,38,19,7
+6,7,Lorient,58,38,16,10
+7,8,AS Mônaco,55,38,15,10
+8,9,Stade Rennes,53,38,14,11
+9,10,Valenciennes,52,38,14,10
+10,11,Lens,48,38,12,12
+11,12,AS Nancy Lorraine,48,38,13,9
+12,13,Paris Saint-Germain,47,38,12,11
+13,14,Toulouse,47,38,12,11
+14,15,Nice,44,38,11,11
+15,16,Sochaux,41,38,11,8
+16,17,Saint-Etienne,40,38,10,10
+17,18,Le Mans,32,38,8,8
+18,19,Boulogne,31,38,7,10
+19,20,Grenoble,23,38,5,8

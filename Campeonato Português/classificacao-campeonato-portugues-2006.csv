@@ -1,17 +1,17 @@
-,Posição,Time,Pontos
-0,1,FC Porto,69
-1,2,Sporting CP,68
-2,3,Benfica,67
-3,4,Braga,50
-4,5,Belenenses,49
-5,6,Paços de Ferreira,42
-6,7,Uniao Leiria,41
-7,8,CD Nacional de Madeira,39
-8,9,Estrela Amadora,35
-9,10,Boavista,35
-10,11,Maritimo,32
-11,12,Naval 1º Maio,32
-12,13,Academica de Coimbra,26
-13,14,Vitoria Setubal,24
-14,15,Beira Mar,23
-15,16,Desportivo das Aves,22
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,FC Porto,69,30,22,3
+1,2,Sporting CP,68,30,20,8
+2,3,Benfica,67,30,20,7
+3,4,Braga,50,30,14,8
+4,5,Belenenses,49,30,15,4
+5,6,Paços de Ferreira,42,30,10,12
+6,7,Uniao Leiria,41,30,10,11
+7,8,CD Nacional de Madeira,39,30,11,6
+8,9,Estrela Amadora,35,30,9,8
+9,10,Boavista,35,30,8,11
+10,11,Maritimo,32,30,8,8
+11,12,Naval 1º Maio,32,30,7,11
+12,13,Academica de Coimbra,26,30,6,8
+13,14,Vitoria Setubal,24,30,5,9
+14,15,Beira Mar,23,30,4,11
+15,16,Desportivo das Aves,22,30,5,7

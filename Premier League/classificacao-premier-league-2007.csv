@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Manchester United,87
-1,2,Chelsea,85
-2,3,Arsenal,83
-3,4,Liverpool,76
-4,5,Everton,65
-5,6,Aston Villa,60
-6,7,Blackburn Rovers,58
-7,8,Portsmouth,57
-8,9,Manchester City,55
-9,10,West Ham United,49
-10,11,Tottenham Hotspur,46
-11,12,Newcastle United,43
-12,13,Middlesbrough,42
-13,14,Wigan Athletic,40
-14,15,Sunderland,39
-15,16,Bolton Wanderers,37
-16,17,Fulham,36
-17,18,Reading,36
-18,19,Birmingham City,35
-19,20,Derby County,11
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Manchester United,87,38,27,6
+1,2,Chelsea,85,38,25,10
+2,3,Arsenal,83,38,24,11
+3,4,Liverpool,76,38,21,13
+4,5,Everton,65,38,19,8
+5,6,Aston Villa,60,38,16,12
+6,7,Blackburn Rovers,58,38,15,13
+7,8,Portsmouth,57,38,16,9
+8,9,Manchester City,55,38,15,10
+9,10,West Ham United,49,38,13,10
+10,11,Tottenham Hotspur,46,38,11,13
+11,12,Newcastle United,43,38,11,10
+12,13,Middlesbrough,42,38,10,12
+13,14,Wigan Athletic,40,38,10,10
+14,15,Sunderland,39,38,11,6
+15,16,Bolton Wanderers,37,38,9,10
+16,17,Fulham,36,38,8,12
+17,18,Reading,36,38,10,6
+18,19,Birmingham City,35,38,8,11
+19,20,Derby County,11,38,1,8

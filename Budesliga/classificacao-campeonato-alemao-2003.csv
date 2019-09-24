@@ -1,19 +1,19 @@
-,Posição,Time,Pontos
-0,1,Werder Bremen,74
-1,2,Bayern de Munique,68
-2,3,Bayer Leverkusen,65
-3,4,VfB Stuttgart,64
-4,5,VfL Bochum,56
-5,6,Borussia Dortmund,55
-6,7,Schalke 04,50
-7,8,Hamburg SV,49
-8,9,Hansa Rostock,44
-9,10,VfL Wolfsburg,42
-10,11,Borussia Monchengladbach,39
-11,12,Hertha Berlin,39
-12,13,SC Freiburg,38
-13,14,Hannover 96,37
-14,15,Kaiserslautern,36
-15,16,Eintracht Frankfurt,32
-16,17,TSV 1860 Munich,32
-17,18,FC Cologne,23
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Werder Bremen,74,34,22,8
+1,2,Bayern de Munique,68,34,20,8
+2,3,Bayer Leverkusen,65,34,19,8
+3,4,VfB Stuttgart,64,34,18,10
+4,5,VfL Bochum,56,34,15,11
+5,6,Borussia Dortmund,55,34,16,7
+6,7,Schalke 04,50,34,13,11
+7,8,Hamburg SV,49,34,14,7
+8,9,Hansa Rostock,44,34,12,8
+9,10,VfL Wolfsburg,42,34,13,3
+10,11,Borussia Monchengladbach,39,34,10,9
+11,12,Hertha Berlin,39,34,9,12
+12,13,SC Freiburg,38,34,10,8
+13,14,Hannover 96,37,34,9,10
+14,15,Kaiserslautern,36,34,11,6
+15,16,Eintracht Frankfurt,32,34,9,5
+16,17,TSV 1860 Munich,32,34,8,8
+17,18,FC Cologne,23,34,6,5

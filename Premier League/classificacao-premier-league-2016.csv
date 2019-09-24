@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Chelsea,93
-1,2,Tottenham Hotspur,86
-2,3,Manchester City,78
-3,4,Liverpool,76
-4,5,Arsenal,75
-5,6,Manchester United,69
-6,7,Everton,61
-7,8,Southampton,46
-8,9,AFC Bournemouth,46
-9,10,West Bromwich Albion,45
-10,11,West Ham United,45
-11,12,Leicester City,44
-12,13,Stoke City,44
-13,14,Crystal Palace,41
-14,15,Swansea City,41
-15,16,Burnley,40
-16,17,Watford,40
-17,18,Hull City,34
-18,19,Middlesbrough,28
-19,20,Sunderland,24
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Chelsea,93,38,30,3
+1,2,Tottenham Hotspur,86,38,26,8
+2,3,Manchester City,78,38,23,9
+3,4,Liverpool,76,38,22,10
+4,5,Arsenal,75,38,23,6
+5,6,Manchester United,69,38,18,15
+6,7,Everton,61,38,17,10
+7,8,Southampton,46,38,12,10
+8,9,AFC Bournemouth,46,38,12,10
+9,10,West Bromwich Albion,45,38,12,9
+10,11,West Ham United,45,38,12,9
+11,12,Leicester City,44,38,12,8
+12,13,Stoke City,44,38,11,11
+13,14,Crystal Palace,41,38,12,5
+14,15,Swansea City,41,38,12,5
+15,16,Burnley,40,38,11,7
+16,17,Watford,40,38,11,7
+17,18,Hull City,34,38,9,7
+18,19,Middlesbrough,28,38,5,13
+19,20,Sunderland,24,38,6,6

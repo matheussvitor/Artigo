@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,AS Mônaco,95
-1,2,Paris Saint-Germain,87
-2,3,Nice,78
-3,4,Lyon,67
-4,5,Marseille,62
-5,6,Bordeaux,59
-6,7,Nantes,51
-7,8,Saint-Etienne,50
-8,9,Stade Rennes,50
-9,10,Guingamp,50
-10,11,Lille,46
-11,12,Angers,46
-12,13,Toulouse,44
-13,14,Metz,43
-14,15,Montpellier,39
-15,16,Dijon FCO,37
-16,17,Caen,37
-17,18,Lorient,36
-18,19,AS Nancy Lorraine,35
-19,20,Bastia,34
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,AS Mônaco,95,38,30,5
+1,2,Paris Saint-Germain,87,38,27,6
+2,3,Nice,78,38,22,12
+3,4,Lyon,67,38,21,4
+4,5,Marseille,62,38,17,11
+5,6,Bordeaux,59,38,15,14
+6,7,Nantes,51,38,14,9
+7,8,Saint-Etienne,50,38,12,14
+8,9,Stade Rennes,50,38,12,14
+9,10,Guingamp,50,38,14,8
+10,11,Lille,46,38,13,7
+11,12,Angers,46,38,13,7
+12,13,Toulouse,44,38,10,14
+13,14,Metz,43,38,11,10
+14,15,Montpellier,39,38,10,9
+15,16,Dijon FCO,37,38,8,13
+16,17,Caen,37,38,10,7
+17,18,Lorient,36,38,10,6
+18,19,AS Nancy Lorraine,35,38,9,8
+19,20,Bastia,34,38,8,10

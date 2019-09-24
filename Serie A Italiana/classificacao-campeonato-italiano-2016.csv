@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Juventus,91
-1,2,AS Roma,87
-2,3,Napoli,86
-3,4,Atalanta,72
-4,5,Lázio,70
-5,6,AC Milan,63
-6,7,Internazionale,62
-7,8,Fiorentina,60
-8,9,Torino,53
-9,10,Sampdoria,48
-10,11,Cagliari,47
-11,12,Sassuolo,46
-12,13,Udinese,45
-13,14,Chievo Verona,43
-14,15,Bolonha,41
-15,16,Genoa,36
-16,17,Crotone,34
-17,18,Empoli,32
-18,19,Palermo,26
-19,20,US Pescara,18
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Juventus,91,38,29,4
+1,2,AS Roma,87,38,28,3
+2,3,Napoli,86,38,26,8
+3,4,Atalanta,72,38,21,9
+4,5,Lázio,70,38,21,7
+5,6,AC Milan,63,38,18,9
+6,7,Internazionale,62,38,19,5
+7,8,Fiorentina,60,38,16,12
+8,9,Torino,53,38,13,14
+9,10,Sampdoria,48,38,12,12
+10,11,Cagliari,47,38,14,5
+11,12,Sassuolo,46,38,13,7
+12,13,Udinese,45,38,12,9
+13,14,Chievo Verona,43,38,12,7
+14,15,Bolonha,41,38,11,8
+15,16,Genoa,36,38,9,9
+16,17,Crotone,34,38,9,7
+17,18,Empoli,32,38,8,8
+18,19,Palermo,26,38,6,8
+19,20,US Pescara,18,38,3,9

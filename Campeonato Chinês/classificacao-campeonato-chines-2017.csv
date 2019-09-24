@@ -1,17 +1,17 @@
-,Posição,Time,Pontos
-0,1,Guangzhou Evergrande,64
-1,2,Shanghai SIPG,58
-2,3,Tianjin Quanjian,54
-3,4,Hebei China Fortune FC,52
-4,5,Guangzhou R&F,52
-5,6,Shandong Luneng Taishan,49
-6,7,Changchun Yatai,44
-7,8,Guizhou Hengfeng FC,42
-8,9,Beijing Sinobo Guoan,40
-9,10,Chongqing Lifan,36
-10,11,Shanghai Shenhua,35
-11,12,Jiangsu Suning,32
-12,13,Tianjin Teda,31
-13,14,Henan Jianye,30
-14,15,Yanbian Fude FC,22
-15,16,Liaoning Whowin,18
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Guangzhou Evergrande,64,30,20,4
+1,2,Shanghai SIPG,58,30,17,7
+2,3,Tianjin Quanjian,54,30,15,9
+3,4,Hebei China Fortune FC,52,30,15,7
+4,5,Guangzhou R&F,52,30,15,7
+5,6,Shandong Luneng Taishan,49,30,13,10
+6,7,Changchun Yatai,44,30,12,8
+7,8,Guizhou Hengfeng FC,42,30,12,6
+8,9,Beijing Sinobo Guoan,40,30,11,7
+9,10,Chongqing Lifan,36,30,9,9
+10,11,Shanghai Shenhua,35,30,9,8
+11,12,Jiangsu Suning,32,30,7,11
+12,13,Tianjin Teda,31,30,8,7
+13,14,Henan Jianye,30,30,7,9
+14,15,Yanbian Fude FC,22,30,5,7
+15,16,Liaoning Whowin,18,30,4,6

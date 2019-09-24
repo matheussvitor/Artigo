@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Montpellier,82
-1,2,Paris Saint-Germain,79
-2,3,Lille,74
-3,4,Lyon,64
-4,5,Bordeaux,61
-5,6,Stade Rennes,60
-6,7,Saint-Etienne,57
-7,8,Toulouse,56
-8,9,Evian Thonon Gaillard,50
-9,10,Marseille,48
-10,11,AS Nancy Lorraine,45
-11,12,Valenciennes,43
-12,13,Nice,42
-13,14,Sochaux,42
-14,15,Brest,41
-15,16,AC Ajaccio,41
-16,17,Lorient,39
-17,18,Caen,38
-18,19,Dijon FCO,36
-19,20,AJ Auxerre,34
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Montpellier,82,38,25,7
+1,2,Paris Saint-Germain,79,38,23,10
+2,3,Lille,74,38,21,11
+3,4,Lyon,64,38,19,7
+4,5,Bordeaux,61,38,16,13
+5,6,Stade Rennes,60,38,17,9
+6,7,Saint-Etienne,57,38,16,9
+7,8,Toulouse,56,38,15,11
+8,9,Evian Thonon Gaillard,50,38,13,11
+9,10,Marseille,48,38,12,12
+10,11,AS Nancy Lorraine,45,38,11,12
+11,12,Valenciennes,43,38,12,7
+12,13,Nice,42,38,10,12
+13,14,Sochaux,42,38,11,9
+14,15,Brest,41,38,8,17
+15,16,AC Ajaccio,41,38,9,14
+16,17,Lorient,39,38,9,12
+17,18,Caen,38,38,9,11
+18,19,Dijon FCO,36,38,9,9
+19,20,AJ Auxerre,34,38,7,13

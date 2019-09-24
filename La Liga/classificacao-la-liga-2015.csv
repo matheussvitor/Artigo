@@ -1,21 +1,21 @@
-,Posição,Time,Pontos
-0,1,Barcelona,91
-1,2,Real Madrid,90
-2,3,Atlético de Madrid,88
-3,4,Villareal,64
-4,5,Athletic Bilbao,62
-5,6,Celta de Vigo,60
-6,7,Sevilla FC,52
-7,8,Málaga,48
-8,9,Real Sociedad,48
-9,10,Real Betis,45
-10,11,Las Palmas,44
-11,12,Valencia,44
-12,13,Espanyol,43
-13,14,Eibar,43
-14,15,Deportivo La Coruña,42
-15,16,Granada,39
-16,17,Sporting Gijón,39
-17,18,Rayo Vallecano,38
-18,19,Getafe,36
-19,20,Levante,32
+,Posição,Time,Pontos,Jogos,Vitórias,Empates
+0,1,Barcelona,91,38,29,4
+1,2,Real Madrid,90,38,28,6
+2,3,Atlético de Madrid,88,38,28,4
+3,4,Villareal,64,38,18,10
+4,5,Athletic Bilbao,62,38,18,8
+5,6,Celta de Vigo,60,38,17,9
+6,7,Sevilla FC,52,38,14,10
+7,8,Málaga,48,38,12,12
+8,9,Real Sociedad,48,38,13,9
+9,10,Real Betis,45,38,11,12
+10,11,Las Palmas,44,38,12,8
+11,12,Valencia,44,38,11,11
+12,13,Espanyol,43,38,12,7
+13,14,Eibar,43,38,11,10
+14,15,Deportivo La Coruña,42,38,8,18
+15,16,Granada,39,38,10,9
+16,17,Sporting Gijón,39,38,10,9
+17,18,Rayo Vallecano,38,38,9,11
+18,19,Getafe,36,38,9,9
+19,20,Levante,32,38,8,8
